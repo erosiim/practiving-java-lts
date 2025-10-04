@@ -9,7 +9,7 @@ public class CalculateSalaryFactory {
     };
 
     static ICalculateSalary SALARY_BONUS_1 = (salary, taxesPercent, bonus) -> {
-        double v = salary + (bonus * 2);
+        double v = salary + bonus;
         double v1 = v * taxesPercent;
         return v - v1;
     };
