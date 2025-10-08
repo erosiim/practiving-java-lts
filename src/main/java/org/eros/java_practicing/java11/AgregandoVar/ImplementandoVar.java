@@ -1,4 +1,4 @@
-package org.eros.java_practicing.java11;
+package org.eros.java_practicing.java11.AgregandoVar;
 
 public class ImplementandoVar {
     public static void main(String[] args) {

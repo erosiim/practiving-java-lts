@@ -1,4 +1,4 @@
-package org.eros.java_practicing.java11;
+package org.eros.java_practicing.java11.AgregandoVar;
 /*
 Las interfaces funcionales pueden ser implementadas por
 otras clases como normalmente se hace,
